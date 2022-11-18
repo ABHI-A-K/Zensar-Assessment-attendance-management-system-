@@ -1,0 +1,6 @@
+Hi...
+A Student Attendance Management System using Django Web Framework is designed which allows 
+Teacher Login and Authentication, Add Students, Mark Attendance and its Percentage and 
+shows Students Report and Attendance Report.
+
+Note : Run server and Directly Click on "linking.html" file in Templates Folder to launch Website. 
